@@ -81,7 +81,10 @@ To evaluate the formative measurement models, the convergent validity is verifie
 To evaluate the reflective measurement models, the internal consistency of the indicators was taken into account using Cronbach's Alpha (alpha), composite reliability (rhoC), construct reliability or Dillon-Goldstein rho (RhoA), convergent validity between the loading of the indicators and the average variance extracted (AVE), where values ​​greater than 0.70 are ideal (NUNNALLY, 1978). Likewise, the AVE indicates the average variance extracted that reflects the latent variable and the values ​​alone. adequate values ​​exceed or equal 0.50 (CHIN, 1998). Fornell and Larcker (1981). Finally, to ensure that each construct is different, discriminant validity was evaluated using the Heterotrait-Monotrait Ratio (HTMT) and Fornell Larcker (FL) criteria, where values ​​​​0.85 are ideal..
 
  Endly, to evaluate the structural model it is necessary to verify the coefficient of determination (R2) of the constructs where 1 indicates a perfect explanation of the variance, relevance or predictive capacity (Q2) where positive values ​​indicate a good fit of the same. the negative or positive size and the significance p value through bootstrapping and the path coefficients for the established hypotheses and the effect size (f2 and q2) for the constructs that make up the model, wherAND 0.02 indicates a small predictive effect, 0.15 a medium effect and 0.35 a large predictive effect (Hair et al., 2017).
+
+ 
 References 
+
 Augie, B. (2017). gridExtra: Miscellaneous Functions for "Grid" Graphics. R package version 2.3. https://CRAN.R-project.org/package=gridExtra
 
 Barclay, D., Higgins, C.., &amp; Thompson, R. (1995). The partial least squares (PLS) approach to causal modeling: Personal computer adoption and use as an illustration. Technology Studies, 2(2), 285-309.
